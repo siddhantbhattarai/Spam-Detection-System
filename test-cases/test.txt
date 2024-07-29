@@ -1,0 +1,5 @@
+spam message:
+Congratulations! You've been selected to receive a $1000 gift card. Click here to claim your prize: http://fakeprize.com
+
+Ham Message:
+Hey, are we still meeting for coffee tomorrow morning? Let me know what time works for you.
